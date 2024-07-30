@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	20b714dad49da6df405cd0010e23904e
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	cart	Z2NwLXVzLWVhc3QxOjAxSEcyQVkzMkY2RjRNRkZHVzRWMlJOOFRC
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1700885630
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	18c3fda61e587546fd95bf8ba34bbfa8
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22US%22%2C%22sale_of_data_region%22%3Afalse%7D
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	887038e0-6610-467e-9858-c985a16834f9
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	6a0fd0de-70c2-490b-b104-b4bc08048cdb
+theme650-coffe-shop.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
